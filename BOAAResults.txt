@@ -1,0 +1,154 @@
+Category	-	Name	-	Votes
+Best Happy Hour	-	Good Time Charley's	-	619
+Best Happy Hour	-	The Brown Jug	-	406
+Best Happy Hour	-	Ashley's	-	229
+Best Happy Hour	-	Garage Bar	-	227
+Best Happy Hour	-	Jolly Pumpkin Brewery and Cafe	-	206
+Best Happy Hour	-	Pretzel Bell	-	191
+Best Burger	-	Frita Batidos	-	1366
+Best Burger	-	Krazy Jim's Blimpy Burger	-	487
+Best Burger	-	HopCat	-	249
+Best Burger	-	Fleetwood Diner	-	157
+Best Burger	-	Black Pearl	-	54
+Best Mediterranean Food	-	Jerusalem Garden	-	1082
+Best Mediterranean Food	-	Baba Dari Mediterranean Grill	-	235
+Best Mediterranean Food	-	Ahmo's Gyro and Grill	-	230
+Best Mediterranean Food	-	Pita Kabob Grill	-	229
+Best Mediterranean Food	-	KouZina Greek Street Food	-	223
+Best Booze Shop	-	Campus Corner	-	529
+Best Booze Shop	-	Falsetta's Market	-	366
+Best Booze Shop	-	State Street Liquor	-	326
+Best Booze Shop	-	Strickland's Market	-	326
+Best Booze Shop	-	Sergeant Pepper's General	-	268
+Best Booze Shop	-	Champions Party Store	-	128
+Best "Fast" Food	-	BTB Burrito	-	657
+Best "Fast" Food	-	Baba Dari Mediterranean Grill	-	604
+Best "Fast" Food	-	Poke Poke Sushi Unrolled	-	470
+Best "Fast" Food	-	Beyond Juicery and Eatery	-	394
+Best "Fast" Food	-	Revive	-	184
+Best Sandwich	-	Zingerman's Delicatessen	-	1213
+Best Sandwich	-	Amer's Deli	-	261
+Best Sandwich	-	Maize and Blue Deli	-	223
+Best Sandwich	-	Potbelly	-	192
+Best Sandwich	-	Belly Deli	-	80
+Best Grocery	-	Trader Joe's	-	986
+Best Grocery	-	Meijer	-	497
+Best Grocery	-	Kroger	-	324
+Best Grocery	-	People's Food Co-op	-	215
+Best Grocery	-	Whole Foods	-	162
+Best Grocery	-	Replenish	-	29
+Best Sweet Treat	-	Insomnia Cookies	-	525
+Best Sweet Treat	-	Zingerman Bakehouse	-	486
+Best Sweet Treat	-	Crumble Cookies	-	343
+Best Sweet Treat	-	Cinnaholic	-	301
+Best Sweet Treat	-	Bon Bon Bon	-	238
+Best Mexican Food	-	Isalita	-	532
+Best Mexican Food	-	TAQ Ann Arbor	-	388
+Best Mexican Food	-	Chapala	-	360
+Best Mexican Food	-	Condado Tacos	-	345
+Best Mexican Food	-	Tios Mexican Cafe	-	308
+Best Apartment	-	Landmark	-	478
+Best Apartment	-	Six11	-	453
+Best Apartment	-	Varsity	-	453
+Best Apartment	-	Vic Village	-	437
+Best Apartment	-	Saga	-	109
+Best Mich Apparel	-	MDen	-	1551
+Best Mich Apparel	-	Underground Printing Co.	-	221
+Best Mich Apparel	-	Ulrich's	-	82
+Best Mich Apparel	-	Motivation	-	52
+Best Sushi	-	Totoro	-	689
+Best Sushi	-	Sadako Japanese Restaurant	-	368
+Best Sushi	-	Mama Satto Sushi	-	210
+Best Sushi	-	Sushi Town	-	203
+Best Sushi	-	KANBU Sushi	-	195
+Best Sushi	-	Miki Japanese Restaurant	-	154
+Best Asian Restaurant	-	No Thai	-	829
+Best Asian Restaurant	-	Slurping Turtle	-	623
+Best Asian Restaurant	-	Miss Kim	-	363
+Best Asian Restaurant	-	Of Rice and Men	-	286
+Best Asian Restaurant	-	One Bowl	-	120
+Best Asian Restaurant	-	Miki Japanese Restaurant	-	94
+Best Pizza	-	Joe's Pizza NYC	-	770
+Best Pizza	-	Cottage Inn	-	317
+Best Pizza	-	Mani Osteria and Bar	-	308
+Best Pizza	-	New York Pizza Depot	-	308
+Best Pizza	-	Pizza House	-	248
+Best Pizza	-	The Back Room	-	95
+Best Ice Cream	-	Blank Slate Creamery	-	1034
+Best Ice Cream	-	Washtenaw Dairy	-	546
+Best Ice Cream	-	Michigan Creamery	-	414
+Best Ice Cream	-	Ben and Jerry's	-	179
+Best Ice Cream	-	Kilwin's	-	91
+Best Indian Food	-	Madras Masala	-	536
+Best Indian Food	-	Cardamom	-	439
+Best Indian Food	-	Namaste Flavours	-	353
+Best Indian Food	-	Shalimar Cuisine of India	-	317
+Best Indian Food	-	Suvai: Taste of India	-	242
+Best Indian Food	-	Aroma Indian Cuisine	-	102
+Best Bookstore	-	Literati Bookstore	-	1128
+Best Bookstore	-	The Dawn Treader	-	491
+Best Bookstore	-	Ulrich's	-	334
+Best Bookstore	-	West Side Book Shop	-	163
+Best Bookstore	-	Blackstone Bookstore & Cultural Center	-	85
+Best Bookstore	-	Motte and Bailey Booksellers	-	51
+Best Entertainment	-	The Michigan Theater	-	689
+Best Entertainment	-	Pinball Pete's	-	688
+Best Entertainment	-	The State Theatre	-	448
+Best Entertainment	-	Revel and Roll	-	242
+Best Entertainment	-	Axe Ventura	-	66
+Best Sunday Brunch	-	Angelo's Restaurant	-	582
+Best Sunday Brunch	-	Avalon Cafe and Kitchen	-	365
+Best Sunday Brunch	-	Stray Hen Cafe	-	330
+Best Sunday Brunch	-	Jagged Fork	-	322
+Best Sunday Brunch	-	Cafe Zola	-	304
+Best Workout Class	-	SoulCycle	-	657
+Best Workout Class	-	Orangetheory Fitness	-	296
+Best Workout Class	-	Pure Barre	-	278
+Best Workout Class	-	The Barre Code	-	177
+Best Workout Class	-	Red Effect Infrared Fitness	-	131
+Best Vegan/Vegetarian Food	-	Detroit Street Filling Station	-	1106
+Best Vegan/Vegetarian Food	-	Fresh Forage	-	239
+Best Vegan/Vegetarian Food	-	First Bite	-	234
+Best Vegan/Vegetarian Food	-	Earthen Jar	-	177
+Best Casual Dinner and Drinks	-	Frita Batidos	-	863
+Best Casual Dinner and Drinks	-	Jolly Pumpkin	-	508
+Best Casual Dinner and Drinks	-	Ashley's	-	443
+Best Casual Dinner and Drinks	-	Aventura	-	269
+Best Casual Dinner and Drinks	-	Haymaker	-	128
+Best Brewery	-	HopCat	-	772
+Best Brewery	-	Grizzly Peak Brewing Co.	-	498
+Best Brewery	-	HOMES Brewery	-	358
+Best Brewery	-	Blom Meadworks	-	279
+Best Brewery	-	Biercamp	-	155
+Best Brewery	-	Townies Brewery	-	54
+Best Late Night Bite	-	Fleetwood Diner	-	815
+Best Late Night Bite	-	Panchero	-	342
+Best Late Night Bite	-	Insomnia Cookies	-	329
+Best Late Night Bite	-	Mister Spots	-	201
+Best Late Night Bite	-	Ray's Red Hots	-	199
+Best Late Night Bite	-	Pizza Bob's	-	142
+Best Romantic Diner	-	Mani Osteria and Bar	-	446
+Best Romantic Diner	-	Sava's	-	386
+Best Romantic Diner	-	Aventura	-	349
+Best Romantic Diner	-	The Gandy Dancer	-	321
+Best Romantic Diner	-	Pacific Rim	-	209
+Best Romantic Diner	-	Taste Kitchen	-	134
+Best Coffee	-	RoosRoast Coffee	-	608
+Best Coffee	-	M36 Coffee Roasters	-	460
+Best Coffee	-	Sweetwaters Coffee & Tea	-	403
+Best Coffee	-	Comet Coffee	-	306
+Best Coffee	-	Ann Arbor Coffee Roasting Company	-	238
+Best Coffee	-	Lab Cafe	-	225
+Best Nightlife	-	Rick's American Cafe	-	490
+Best Nightlife	-	Scorekeepers Sports Grill and Pub	-	393
+Best Nightlife	-	The Blind Pig	-	313
+Best Nightlife	-	Necto	-	280
+Best Nightlife	-	Mash	-	147
+Best Nightlife	-	Bab's Underground	-	125
+Best Nightlife	-	Blue Leprechaun	-	93
+Best Boba	-	Quickly Boba Cafe	-	546
+Best Boba	-	Sharetea	-	504
+Best Boba	-	Tea Ninja	-	390
+Best Boba	-	Sweeting	-	270
+Best Boba	-	CoCo	-	220
+Best Boba	-	UniTea	-	175
